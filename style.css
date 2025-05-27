@@ -3,3 +3,46 @@ body{
 }
 
 
+
+.branch a{
+    color: red;
+   font-size: 300px;
+
+}
+
+
+.youtube{
+    color: rgba(0, 0, 0, 0.741);
+   padding: 10px 20px;
+}
+
+
+
+
+.Toggle a{
+  color:rgb(0, 170, 255);
+   font-size: 300px;
+   padding: 0px 20px;
+
+}
+
+.Instazam a{
+      color: rgb(255, 64, 96);
+   font-size: 300px;
+   padding: 0px 20px;
+
+}
+
+.discord a{
+
+   font-size: 300px;
+   padding: 0px 20px;
+
+}
+
+.Callme a{
+color: rgb(135, 249, 135);
+   font-size: 300px;
+   padding: 0px 20px;
+
+}
